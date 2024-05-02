@@ -4,7 +4,7 @@ Movios is a movie website that automatically uploads the latest movies for users
 
 ## Features
 
-🎥 **Automatic Movie Uploads**: Movios uses the TMDB API to fetch the latest movies and uploads them to the website automatically.
+🎥 **Automatic Movie Uploads**: Movios uses the **** API to fetch the latest movies and uploads them to the website automatically.
 
 🔍 **Search Functionality**: Easily search for your favorite movies using Movios' search feature.
 
