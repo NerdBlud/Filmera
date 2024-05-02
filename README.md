@@ -19,6 +19,6 @@ Movios is a movie website that automatically uploads the latest movies for users
 📱 **Mobile-Friendly**: Access Movios on your smartphone or tablet for movie updates on the go.
 
 ## How to access Movios? ⁉️🎬
-🍿 [Click here to acces!](https://movios.netlify.app)
+🍿 [Click here to access!](https://movios.netlify.app)
 
 Enjoy your movie experience with Movios! 🎉
